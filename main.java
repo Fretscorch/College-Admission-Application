@@ -1,5 +1,3 @@
-43.0%
-
 // Connor Hathaway
 
 import javafx.application.Application;
